@@ -1,0 +1,97 @@
+@media only screen and (max-width : 2500px) {
+	.page-wrapper{
+		overflow:hidden;
+	}
+	
+}
+@media only screen and (max-width : 992px) {
+
+	.atf-single-text h1{
+		font-size:40px;
+	}
+	.atf-call-image img {
+		margin-top: 0px;
+	}
+	#countdown div{margin-left:90px;}
+	.atf-footer-social-icon a i{margin-bottom: 10px;}
+
+}
+@media only screen and (max-width : 991px) {
+	.menu-item-has-children i{
+		display:none;
+	}
+	.atf-single-text p{
+		font-size:16px;
+	}
+	.atf-property-form-item.atf-course-content{
+		background:transparent;
+	}
+	.col-lg-1.col-md-6.col-12.atf-course-search {
+		background: transparent;
+	}
+	.atf-property-form-item{
+		padding: 30px 30px;
+	}
+	.atf-class-slide {
+		margin: 15px 0;
+	}
+	.atf-video-area {
+		margin-top: 30px;
+	}
+	
+	.atf-single-text h1{
+		font-size:35px;
+	}
+	.atf-feature-content{
+		margin:15px 0;
+	}
+	.atf-about-inner{
+		padding-top:40px;
+	}
+	.atf-counter {
+		margin: 15px 0;
+	}
+	.atf-footer-link{
+		margin: 15px 0px;
+	}
+	.atf-mailchamp-headding h2{
+		font-size:25px;
+	}
+	.atf-contact-info{margin-top:40px;}
+
+}
+@media only screen and (max-width: 767px) {
+	.form-message{
+		padding-bottom:30px;
+	}
+	#atf-map-area {
+		margin-bottom: 0px;
+	}
+	.atf-best-single-service{
+		margin: 10px 0;
+	}
+
+
+}
+
+@media only screen and (max-width: 576px) {
+	.atf-mailchamp-headding h2 {
+		font-size: 20px;
+		text-align: center;
+	}
+	.atf-contact-info{
+		margin-right:0;
+	}
+	.atf-post-details.atf-style1 .embed-responsive{
+		display:none;
+	}
+	.comments-area .children{padding-left:20px;}
+
+}
+
+@media screen and (max-width: 320px) and (min-width: 0px){
+	.atf-contact-details{
+		margin:15px 0;
+	}
+
+}
